@@ -12,13 +12,14 @@
 
 <h4 align="center">  Favourite Tech </h4>
 <div align="center">
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-fff?style=flat-square&logo=flutter&logoColor=000">
-<img alt="Dart" src="https://img.shields.io/badge/-Dart-fff?style=flat-square&logo=dart&logoColor=000">
-<img alt="GetX" src="https://img.shields.io/badge/-GetX-fff?style=flat-square&logo=GetX&logoColor=000">
-<img alt="Go" src="https://img.shields.io/badge/-Go-fff?style=flat-square&logo=Go&logoColor=000">
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-fff?style=flat-square&logo=Vue.js&logoColor=000">
-<img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-fff?style=flat-square&logo=Nuxt.Js&logoColor=000">
+    <a href="https://flutter.dev"> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-fff?style=flat-square&logo=flutter&logoColor=000"> </a>
+    <a href="https://dart.dev"> <img alt="Dart" src="https://img.shields.io/badge/-Dart-fff?style=flat-square&logo=dart&logoColor=000"> </a>
+    <a href="https://github.com/jonataslaw/getx"> <img alt="GetX" src="https://img.shields.io/badge/-GetX-fff?style=flat-square&logo=GetX&logoColor=000"> </a>
+    <a href="https://go.dev"> <img alt="Go" src="https://img.shields.io/badge/-Go-fff?style=flat-square&logo=Go&logoColor=000"> </a>
+    <a href="https://vuejs.org"> <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-fff?style=flat-square&logo=Vue.js&logoColor=000"> </a>
+    <a href="https://nuxtjs.org"> <img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-fff?style=flat-square&logo=Nuxt.Js&logoColor=000"> </a>
 </div>
+
 
 
 <h4 align="center">  GitHub stats </h4>
