@@ -4,7 +4,6 @@
 <strong>I am Raphael Arabeyre, freelance developer.</strong><br>
 </h4>
 <p>
-- I study computer science at <a href="https://ynov-toulouse.com">Toulouse Ynov Campus</a><br>
 - I'm passionate about development and new technologies.<br>
 - Contact me: <a href="mailto: araph.pro@gmail.com">araph.pro@gmail.com</a><br>
 </p>
