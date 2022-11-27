@@ -24,5 +24,4 @@
 <h4 align="center">  GitHub stats </h4>
 <div align="center">
     <img alt="GitHub stats"  width="67%" align="left" src="https://github-readme-stats.vercel.app/api?username=RaphaelArabeyre&show_icons=true&count_private=true&theme=graywhite"/>
-    <img alt="Top Languages" width=28%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelArabeyre&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite"/>
 </div>
