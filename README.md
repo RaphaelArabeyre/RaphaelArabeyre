@@ -24,5 +24,5 @@
 
 <h4 align="center">  GitHub stats </h4>
 <div align="center">
-    <img alt="GitHub stats"  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelArabeyre&show_icons=true&count_private=true&theme=graywhite"/>
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RaphaelArabeyre&show_icons=true&count_private=true&theme=graywhite"/>
 </div>
