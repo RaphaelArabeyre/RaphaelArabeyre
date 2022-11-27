@@ -1,11 +1,12 @@
 <h1 align="center"> Welcome to my GitHub Profile !</h1>
 
 <h4 align="center">
-<strong>I am Raphael Arabeyre, freelance developer.</strong><br>
+<strong>I am Raphael Arabeyre, freelance Flutter developer.</strong><br>
 </h4>
 <p>
 - I'm passionate about development and new technologies.<br>
-- Contact me: <a href="mailto: araph.pro@gmail.com">araph.pro@gmail.com</a><br>
+- Developer of <a href="https://parledemoi.com">Parledemoi</a>.<br>
+- Contact me: <a href="mailto: araph.pro@gmail.com">araph.pro@gmail.com</a>.<br>
 </p>
 
 
