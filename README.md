@@ -31,9 +31,6 @@
     <a href="https://go.dev">
         <img alt="Go" src="https://img.shields.io/badge/-Go-fff?style=flat-square&logo=Go&logoColor=000">
     </a>
-    <a href="https://vuejs.org">
-        <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-fff?style=flat-square&logo=Vue.js&logoColor=000">
-    </a>
     <a href="https://nuxtjs.org">
         <img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-fff?style=flat-square&logo=Nuxt.Js&logoColor=000">
     </a>
