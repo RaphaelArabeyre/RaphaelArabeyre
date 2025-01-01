@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome to my GitHub Profile !</h1>
 
-<h4 align="center">
+<h3 align="center">
 <strong>I am Raphael Arabeyre, <a href="https://www.malt.fr/profile/raphaelarabeyre">freelance Flutter</a> developer.</strong><br>
-</h4>
+</h3>
 <p>
     <br>
     - I'm passionate about development and new technologies.<br><br>
@@ -24,9 +24,6 @@
     </a>
     <a href="https://dart.dev">
         <img alt="Dart" src="https://img.shields.io/badge/-Dart-fff?style=flat-square&logo=dart&logoColor=000">
-    </a>
-    <a href="https://github.com/jonataslaw/getx">
-        <img alt="GetX" src="https://img.shields.io/badge/-GetX-fff?style=flat-square&logo=GetX&logoColor=000">
     </a>
     <a href="https://go.dev">
         <img alt="Go" src="https://img.shields.io/badge/-Go-fff?style=flat-square&logo=Go&logoColor=000">
